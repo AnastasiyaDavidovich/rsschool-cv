@@ -1,6 +1,6 @@
 **Anastasiya Davidovich**
 
-##*QA Automation Java/JavaScript*
+*QA Automation Java/JavaScript*
 
 
 **********************************************************
@@ -16,14 +16,14 @@ Discord:@anastasiayad
 [github]("https://github.com/AnastasiyaDavidovich")
 
 -----------------------------------------------
-#***About Me***
+***About Me***
 
 I'm a motivated and detail-oriented person with a background in accounting and a strong desire to get
 into software testing. I have the skills of automated and user testing, experience in finalizing and testing
 programs. I ready to continue to learn a lot and grow as a specialist.
 
 ----------------------------------------------------
-##*Skills and Proficiency*:
+*Skills and Proficiency*:
 
 * JavaScript 
 * Java 
@@ -41,7 +41,7 @@ programs. I ready to continue to learn a lot and grow as a specialist.
 
 --------------------------------------------------
 
-#**Code Examples:**
+**Code Examples:**
 
 ```function checkThreeAndTwo(array) {
  let obj = {
@@ -65,7 +65,7 @@ programs. I ready to continue to learn a lot and grow as a specialist.
 ```
 ---------------------------------
 
-#***WORK EXPERIENCE***
+***WORK EXPERIENCE***
 
 * **QA Automation Java** 
 *ExLab (Start-Up)* 
@@ -94,7 +94,7 @@ programs. I ready to continue to learn a lot and grow as a specialist.
 
 --------------------------------------
 
-#***EDUCATION***
+***EDUCATION***
 - Automation testing in JavaScript
 QA4Everyone - Bootcamp , online
 2021 - 2022
@@ -123,7 +123,7 @@ Courses:
 
 ------------------------------------------------
 
-#***Languages***:
+***Languages***:
 * English - Professional Working Proficiency
 * Russian - Native or Bilingual Proficiency
 * Poland - Elementary Proficiency

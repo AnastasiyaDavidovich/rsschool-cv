@@ -11,9 +11,9 @@ E-mail: anastasiyadavidovichy@gmail.com
 
 Discord: @anastasiayad
 
-[LinkedIn](https://www.linkedin.com/in/anastasiya-davidovich-b09788ba/)
+[LinkedIn](https://www.linkedin.com/in/anastasiya-davidovich-b09788ba/ "LinkedIn")
 
-[github](https://github.com/AnastasiyaDavidovich)
+[github](https://github.com/AnastasiyaDavidovich "github")
 
 
 ----------------------------------------

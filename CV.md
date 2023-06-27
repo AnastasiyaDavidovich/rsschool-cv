@@ -7,7 +7,7 @@
 
 Contact information: 
 
-E-mail:anastasiyadavidovichy@gmail.com 
+E-mail:anastasiyadavidovichy@gmail.com  
 
 Discord:@anastasiayad
 

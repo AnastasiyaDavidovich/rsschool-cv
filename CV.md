@@ -7,9 +7,9 @@
 
 Contact information: 
 
-E-mail:anastasiyadavidovichy@gmail.com  
+E-mail: anastasiyadavidovichy@gmail.com  
 
-Discord:@anastasiayad
+Discord: @anastasiayad
 
 [LinkedIn]("https://www.linkedin.com/in/anastasiya-davidovich-b09788ba/")
 
@@ -53,9 +53,9 @@ programs. I ready to continue to learn a lot and grow as a specialist.
     obj[i]++;
   }
   return Object.values(obj).includes(2) && Object.values(obj).includes(3);
-}```
+}
 
-```function wordsToMarks(string){
+function wordsToMarks(string){
    let summ = 0;
    for (let i=0; i<string.length;i++){
      summ += string[i].charCodeAt(0)-96
@@ -96,12 +96,10 @@ programs. I ready to continue to learn a lot and grow as a specialist.
 
 ***EDUCATION***
 - Automation testing in JavaScript
-QA4Everyone - Bootcamp , online
+QA4Everyone - Bootcamp, online
 2021 - 2022
 
-- Specialist. School of Accounting and Economics
-Belarus state economic university
-09/2006 - 07/2011
+- Specialist. School of Accounting and Economics - Belarus state economic university, 09/2006 - 07/2011
 
 ------------------------------------
 

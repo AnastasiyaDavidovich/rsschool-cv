@@ -43,7 +43,8 @@ programs. I ready to continue to learn a lot and grow as a specialist.
 
 **Code Examples:**
 
-```function checkThreeAndTwo(array) {
+```
+function checkThreeAndTwo(array) {
  let obj = {
    a:0,
    b:0,

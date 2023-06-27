@@ -45,40 +45,24 @@ programs. I ready to continue to learn a lot and grow as a specialist.
 
 ```
 function checkThreeAndTwo(array) {
-
  let obj = {
-
    a:0,
-
    b:0,
-
    c:0
-
    };
-
   for (let i of array){
-
     obj[i]++;
-
   }
-
   return Object.values(obj).includes(2) && Object.values(obj).includes(3);
-
 }
 
 
 function wordsToMarks(string){
-
    let summ = 0;
-
    for (let i=0; i<string.length;i++){
-
      summ += string[i].charCodeAt(0)-96
-
    }
-
    return summ;
-
  }
 
 ```

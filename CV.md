@@ -1,4 +1,4 @@
-#**Anastasiya Davidovich**
+**Anastasiya Davidovich**
 
 ##*QA Automation Java/JavaScript*
 

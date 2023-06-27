@@ -4,10 +4,14 @@
 
 **********************************************************
 
-Contact information:
-E-mail:anastasiyadavidovichy@gmail.com
+Contact information: 
+
+E-mail:anastasiyadavidovichy@gmail.com 
+
 Discord:@anastasiayad
+
 [LinkedIn]("https://www.linkedin.com/in/anastasiya-davidovich-b09788ba/")
+
 [github]("https://github.com/AnastasiyaDavidovich")
 
 -----------------------------------------------

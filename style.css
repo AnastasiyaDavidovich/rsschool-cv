@@ -132,6 +132,10 @@ body {
   flex-direction: row;
 }
 
+.footer {
+  width: 100%;
+}
+
 .section-title {
   font-size: 20px;
   font-weight: bold;
@@ -174,9 +178,13 @@ body {
   background-color: rgb(34, 32, 32);
   color: white;
   line-height: 20px;
-  padding-top: 10px;
+  /* padding-top: 10px; */
 }
 
 .job-title {
   font-weight: bold;
+}
+
+#contacts {
+  background-color: #95b4d1;
 }
